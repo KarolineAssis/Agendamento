@@ -1,0 +1,5 @@
+{
+  "name": "Karoline Assis - Agendamentos",
+  "description": "Um aplicativo de agendamento de serviços de salão de beleza para o salão Karoline Assis. Clientes podem agendar serviços e o administrador pode gerenciar os agendamentos.",
+  "requestFramePermissions": []
+}
